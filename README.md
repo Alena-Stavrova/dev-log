@@ -1,5 +1,5 @@
 # dev-log
-Meta repo for documenting my dev process and thoughts.
+Meta repo for documenting my dev process and thoughts ✏️📄
 
 I have 2 main Automation projects, [Levenhuk](https://github.com/Alena-Stavrova/lvh-scripts) and [Ermenrich](https://github.com/Alena-Stavrova/erm-scripts).  
 
