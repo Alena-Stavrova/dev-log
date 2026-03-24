@@ -6,7 +6,7 @@
 - [Next]: [What's next]-->
 
 **2026-03-24**
-* Swtiched to VS Code - search/copy-paste in IDLE works like half time
+* Swtiched to VS Code - search/copy-paste in IDLE works like half of the time
 * Levenhuk: still working on IT script and fixing errors (mainly in "express delivery" flow). Not used to working with/debugging scripts that long - good that VS Code lets you open same script in different parts to track the references. Also tried to edit DE V2, but working with 2 long scripts is super overwhelming.
 
 **2026-03-23**
