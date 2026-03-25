@@ -5,8 +5,12 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 
+**2026-03-25**
+* Admin: getting used to VS Code - it's really more convenient to edit, search, compare etc. Need to learn more about its cool functions
+* Levenhuk: seems to finish pilot IT with OrderContext class, added it to DE and EU. Started to see the benefits of better structure/organization! We'll see how it works in other countries with different flows/logic.
+
 **2026-03-24**
-* Swtiched to VS Code - search/copy-paste in IDLE works like half of the time
+* Admin: swtiched to VS Code - search/copy-paste in IDLE works like half of the time
 * Levenhuk: still working on IT script and fixing errors (mainly in "express delivery" flow). Not used to working with/debugging scripts that long - good that VS Code lets you open same script in different parts to track the references. Also tried to edit DE V2, but working with 2 long scripts is super overwhelming.
 
 **2026-03-23**
