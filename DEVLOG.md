@@ -4,7 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
-**2026-04-02**
+**2026-04-03**
+* Ermenrich: fixed shop pickup flow on PL ERM. It's weird how sometimes things that were super simple once turned into a real obstacle somewhere else. On LVH it was a default option with nothing to click and required no action. But on PL ERM it had a complex flow that unfolds interactively so it took some tinkering.
+
+**2026-04-01 and 2026-04-02**
 * Admin: wow, I somehow missed yesterday - just didn't notice. This entry will be for today and yesterday then
 * Ermenrich: I started refactoring my ERM scripts, adding ParentContext/OrderContext classes. ERM differs from LVH in some details (e.g. need to confirm shop pickup), but the classes are still pretty universal and a huge help. Currently working on CZ
 * Levenhuk: doing some minor edits in case I find something suspicious in the respective ERM script
