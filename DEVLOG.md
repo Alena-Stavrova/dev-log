@@ -4,6 +4,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+
+**2026-04-06**
+* Levenhuk: fixed order fee verification error for ES LVH, updated payment logic. Thanks to my autotests, it was discovered that COD doesn't work for orders 120+ EU as expected and managers decided to hide COD payment option for such orders
+* Ermenrich: updates ES ERM based on DE ERM and ES LVH, with the new payment logic
+  
 **2026-04-03**
 * Ermenrich: fixed shop pickup flow on PL ERM. It's weird how sometimes things that were super simple once turned into a real obstacle somewhere else. On LVH it was a default option with nothing to click and required no action. But on PL ERM it had a complex flow that unfolds interactively so it took some tinkering.
 
