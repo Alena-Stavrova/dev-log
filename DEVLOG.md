@@ -5,6 +5,10 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 
+**2026-04-09**
+* Admin: missed yesterday again for logging. Some network issues (everything runs super slow) plus a lot of manual testing
+* Ermenrich: Still working on PL ERM (InPost + non-default payment flow) which takes annoyingly long. The problem seems to be that the required fields takes long to populate and when payment is selected, the data is not there yet which throws an error
+
 **2026-04-07**
 * Ermenrich: updated EU and HU ERM scripts adding OrderContext class. It really helped me update ERM scripts quickly, but as I copy and paste scripts from one country as a draft from another, there are still a few errors here and there (e.g. Italian delivery gets lost and reproduces for HU and EU).
 * Both: now that I only have PL ERM to update, I'm thinking of the next step which will be updating and creating a series of orders where the user selects delivery and payment option - that will allow me to test any combination of delivery/payment specifically or all of them.
