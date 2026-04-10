@@ -5,6 +5,10 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 
+**2026-04-10**
+* Admin: my mishaps keep coming - now my work PC had some problem, and D disk was gone...
+* Ermenrich: still working on PL script with not much progress. Consulted with DeepSeek, but its suggested edits and debugs just bloated code without solving the issue. I gave up and decided to copy and paste this section from old VO version with thoroughly checking and editing it (still in progress).
+* 
 **2026-04-09**
 * Admin: missed yesterday again for logging. Some network issues (everything runs super slow) plus a lot of manual testing
 * Ermenrich: Still working on PL ERM (InPost + non-default payment flow) which takes annoyingly long. The problem seems to be that the required fields takes long to populate and when payment is selected, the data is not there yet which throws an error
