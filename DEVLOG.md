@@ -5,6 +5,10 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 
+**2026-04-13**
+* Ermenrich: I was still working on InPost-non-default payment flow when I realized it worked the same way in PL LVH script (that previously worked fine). And with the manual order! Turned out, it's not my bad code, it's more global issue - even if it's just due to a slow network. Will investiage tomorrow
+* Ermenrich and Levenhuk: in the process of fixing 2 small errors - space in HU delivery/payment fee prevents the correct comparison ("2 000 Ft" != "2000 Ft") and changed business logic on IT (no more payment fees)
+
 **2026-04-10**
 * Admin: my mishaps keep coming - now my work PC had some problem, and D disk was gone...
 * Ermenrich: still working on PL script with not much progress. Consulted with DeepSeek, but its suggested edits and debugs just bloated code without solving the issue. I gave up and decided to copy and paste this section from old VO version with thoroughly checking and editing it (still in progress).
