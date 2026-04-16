@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-04-16**
+* Admin: forgot to post here AND forgot to push my commits yesterday. Gotta be more disciplined with that
+* Ermenrich: our devs fixed PL ERM error, and I fixed my script so it's working now. Also, found and fixed a fee verification error on HU ERM and LVH
+* Levenhuk: started to work on IT LVH script that lets the user choose delivery and payment options (I call them "choice" as opposed to "random"). This is the next step towards complete test suite - it will let me selectively test each possible flow on every website
 
 **2026-04-13**
 * Ermenrich: I was still working on InPost-non-default payment flow when I realized it worked the same way in PL LVH script (that previously worked fine). And with the manual order! Turned out, it's not my bad code, it's more global issue - even if it's just due to a slow network. Will investiage tomorrow
