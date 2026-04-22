@@ -4,6 +4,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+
+**2026-04-22**
+* Admin: I forgot to keep my devlog again, but now I'm back. I reconsidered my goals and decided to write a test suite based on Tiers (groups of websites based on importance, 3 Tiers total) instead of brands + random/choice. That way, I can just run the suite runner and execute all orders needed for the Tier. It sounds pretty obvious, but I didn't think of it before. The only difficult moment is that it needs a dedicated function to create a test plan to contain all combos to test (Tier 1 = all delivery/payment optiions at least once, Tier 2 = all 3rd party delivery/payment options at least once, Tier 3 - 1 random order per site, for which my existing random scripts can be used)
+* I already wrote a dedicated runner for Tier 2, edited a script for HU LVH and tested them together (seems to work). Will add more scripts in the next days.
+  
 **2026-04-16**
 * Admin: forgot to post here AND forgot to push my commits yesterday. Gotta be more disciplined with that
 * Ermenrich: our devs fixed PL ERM error, and I fixed my script so it's working now. Also, found and fixed a fee verification error on HU ERM and LVH
