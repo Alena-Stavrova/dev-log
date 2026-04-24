@@ -6,6 +6,10 @@
 - [Next]: [What's next]-->
 
 **2026-04-23**
+* Tier 2: fixed up some errors and ensure consistency across BG, EU, HU and PL LVH, but there is still a problem with InPost (PL) that needs to be fixed
+* Admin: I started to keep a .txt file on my desktop where I put all the little annoying details or errors in script (like too many ticks that are just distracting when I scan logs or IT "unavailable indicators" in HU scripts) - and I work on them calmly first thing in my workday. So far I really like this process and it's also efficient. 
+  
+**2026-04-23**
 * Tier 2: edited the runner and all 4 Tier2 Levenhuk websites (BG, EU, HU, PL). It's working, but need to clean it up a bit. Hope to contunue editing all Tier2 ERMs in the following days. The logic of the runner is different and the main functions of the scripts also have the different structure, but once figured out, individual changes in the scripts are pretty small.
 
 **2026-04-22**
