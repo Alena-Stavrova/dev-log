@@ -5,6 +5,10 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 
+**2026-04-27**
+* Tier 2: finished all Tier 2 ERM scripts, now all LVH and ERM websites are covered for Tier 2 (but I haven't started working on our RU websites or B2B)
+* Tier 2: IT ERM has unpredictable number of orders (2 or 3) because it's the only case so far where not every 3rd party payment option is compatible with 3rd party delivery options (no Credit card for Express delivery)
+
 **2026-04-23**
 * Tier 2: fixed up some errors and ensure consistency across BG, EU, HU and PL LVH, but there is still a problem with InPost (PL) that needs to be fixed
 * Admin: I started to keep a .txt file on my desktop where I put all the little annoying details or errors in script (like too many ticks that are just distracting when I scan logs or IT "unavailable indicators" in HU scripts) - and I work on them calmly first thing in my workday. So far I really like this process and it's also efficient. 
