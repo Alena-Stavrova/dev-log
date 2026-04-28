@@ -4,7 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
-
+**2026-04-28**
+* Tier 2: mainly worked on the issue where a script needs 2 emails (e.g. IT ERM) and has to change email mid-script. It required some tweaks to the runner and the individual scripts as well. Implied and tested on ERMs only, will add to LVH later
+  
 **2026-04-27**
 * Tier 2: finished all Tier 2 ERM scripts, now all LVH and ERM websites are covered for Tier 2 (but I haven't started working on our RU websites or B2B)
 * Tier 2: IT ERM has unpredictable number of orders (2 or 3) because it's the only case so far where not every 3rd party payment option is compatible with 3rd party delivery options (no Credit card for Express delivery)
