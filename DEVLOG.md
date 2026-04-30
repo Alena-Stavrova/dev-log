@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-04-29**
+* Admin: I spent my efforts today on ensuring the delivery and payment options are spelled correctly on ERM and LVH scripts (haven't done Tier 2 yet). It's boring and unsexy, but I was tired of this little mistakes where, say, it has "courier" on LVH and "Courier delivery" on ERM, and I need to remember that or it'll throw an error that is hard to trace. Also, a few minor fixes for Tier 2 websites.
+
 **2026-04-28**
 * Tier 2: mainly worked on the issue where a script needs 2 emails (e.g. IT ERM) and has to change email mid-script. It required some tweaks to the runner and the individual scripts as well. Implied and tested on ERMs only, will add to LVH later
   
