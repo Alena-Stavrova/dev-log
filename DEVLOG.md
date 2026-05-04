@@ -4,6 +4,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+
+**2026-05-04**
+* Tier 2 / LVH: added fix for the city field error (script fails, because it can't find city field after country selection), added wrong selectors by error, fixed them, too. Also added a fix for Tier 2 that correctly counts and uses test emails for the whole suite (currently 2 for LVH, 2 for ERM, with IT ERM variability of either 2 or 3 orders). Fixed HU LVH and HU ERM fee verification error.
+* Tier 2 - RU: I got a little bored and needed another challenge so I decided to start working on RU ERM (previously, I couldn't make progress with our RU websites). The RU ERM layout is the same, but it has many more payment and delivery options with its own pretty complicated logic. Also, it uses Dadata API to get hints of the user's location (I couldn't find a way to give this field the correct input before). Now with a bit more expreience, I hope that I'll be able to solve these issues eventually. 
+
 **2026-04-30**
 * Tier 2: still fine-tuning LVH and ERM scripts. Updated them with the consistent delivery/payment option spelling (now it must be consistent across ALL scripts) and added function enabling to use several emails per country, but it doesn't work as expected yet (has 1 email for PL ERM, but thinks it has no emails). Will keep working on it.
 * Admins: I have a list of errors that appears inconsistently and will monitor it
