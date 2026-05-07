@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-07**
+* Tier 2: not much done on the RU ERM today, but it's the first time I ran all my Tier 2 scripts for a real Tier 2 website check - and it went pretty well, no errors and no crashes. Feels good to be reminded why I'm doing all this :)
+* ERM/LVH: fixed a few small errors like fee verification fails and removing my old temporal data rewriting real data for test purposes
+
 **2026-05-06**
 * Tier 2 - RU: still working on RU ERM script with a very slow progress. It seems very overwhelming because, although the structure is similar, the approach must be different. A simple example: while in EU scripts we added "compatible_with" to payments (set a delivery > scan payments' 'compatible_with' to find said delivery > choose payment), for RU, we have to add 'compatible with' to deliveries because they depend on the region (Moscow, St.Pete, regions) and the payments are shown after the delivery is chosen
 * 
