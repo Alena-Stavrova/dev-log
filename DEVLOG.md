@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-08**
+* Tier 2 RU: work on RU ERM is really slow, I'm getting overwhelmed and feel strong resistance, but today I was able to finish organizing data (for now) and move to functions, up to delivery selection. It needs to revise some logic as the options are more complicated. The great thing is that both shop pickups and SDEK pickup points are identical so we're able to group them together.
+
 **2026-05-07**
 * Tier 2: not much done on the RU ERM today, but it's the first time I ran all my Tier 2 scripts for a real Tier 2 website check - and it went pretty well, no errors and no crashes. Feels good to be reminded why I'm doing all this :)
 * ERM/LVH: fixed a few small errors like fee verification fails and removing my old temporal data rewriting real data for test purposes
