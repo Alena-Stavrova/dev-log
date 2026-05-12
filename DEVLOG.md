@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-12**
+* Tier 2: I decided to finally add a variable for currency since fixing it manually has been a nightmare - it needs consistency. Added it on HU LVH only, will transfer to other scripts.
+* Tier 2 RU: some progress with RU script - updated it up to the test plan creation (the scariest part). Also created a test runner for RU specifically so as to not mess with the real runner.
+  
 **2026-05-08**
 * Tier 2 RU: work on RU ERM is really slow, I'm getting overwhelmed and feel strong resistance, but today I was able to finish organizing data (for now) and move to functions, up to delivery selection. It needs to revise some logic as the options are more complicated. The great thing is that both shop pickups and SDEK pickup points are identical so we're able to group them together.
 
