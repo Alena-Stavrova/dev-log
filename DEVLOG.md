@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-13**
+* Tier 2: fixed some errors, incl. PL ERM where the script failed to confirm the shop after shop pickup (not an insignificant error!). Added currency feature to DE LVH and PL ERM (I added it to the scripts where I fix other issues, so it may seem random - but I do keep a track)
+* Tier 2 RU: kept working on test plan function
+  
 **2026-05-12**
 * Tier 2: I decided to finally add a variable for currency since fixing it manually has been a nightmare - it needs consistency. Added it on HU LVH only, will transfer to other scripts.
 * Tier 2 RU: some progress with RU script - updated it up to the test plan creation (the scariest part). Also created a test runner for RU specifically so as to not mess with the real runner.
