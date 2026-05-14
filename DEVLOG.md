@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-14**
+* Tier 2 RU: finally some meaningful progress - I managed to run the script up until the order form where it failed with the error. Most notably, I created a simple, clear concept for test plan, although it does involve a little hardcoding. Since we only have 1 3rd-party payment option (worsk with everything) and 3 3rd-party delivery options, the test plan will just pair the payment with any of the deliveries and find 2 random payments for other deliveries. No fancy combination needed. (I was worried about the perspective of using this structure on 4glaza, where we will test ALL the options, but let's solve the problem as they come). 
+
 **2026-05-13**
 * Tier 2: fixed some errors, incl. PL ERM where the script failed to confirm the shop after shop pickup (not an insignificant error!). Added currency feature to DE LVH and PL ERM (I added it to the scripts where I fix other issues, so it may seem random - but I do keep a track)
 * Tier 2 RU: kept working on test plan function
