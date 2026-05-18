@@ -4,6 +4,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-18**
+* Tier 2 RU: turns out, last FRI I was just 1 step away from having RU ERM Tier 2 running! Fixed it, fixed a few more errors, and now I have a seemingly stable script. Already incorporated it in a normal runner (not a dedicated RU runner for test), and it seems to work. Will see for the next few days.
+* ERM RU: it also took me not that much effort to edit it to be a RU ERM random script (choosing a delivery and a payment option randomly). I think it's because Tier 2 scripts are a bit more complicated, so I was editing by simplifying, plus the classes helped a ton.
+* Plans: I'm pretty excited to start working on RU LVH script, and I have a feeling it should be relatively easy. I've already figured out the most difficult parts (whole setup for LVH websites + Russian payment/delivery system similar across all RU websites), so the challenge is to combine them to work smoothly without messing up anything in the process.
+
 **2026-05-15**
 * Tier 2 RU: today I was pretty excited to work on this project because I feel like I've almost got it! I'm currently stuck on order page, wrestling with Dadata-hinted address input (the same thing that made me abandon the script for some time). The theory is that JS doesn't work for it so we have to use real keystrokes. I have a hunch that, once I figure it out, I pretty much get the whole script - and then editing it for Tier 2 RU LVH would be easy peasy. 
 
