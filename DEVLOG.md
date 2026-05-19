@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-19**
+* Admin: this day, I did something different for a change - I added some basic documentation on my scripts in case some of my colleagues want to run it. I added 2 .bat files - install_dependencies and a runner for each series that you can just by double-clicking. Would be great to get some feedback from real users on that, but I'm not sure anybody would be interested.
+* RU LVH: started RU LVH random (should have started with the more difficult one, Tier 2, but alas) and plan to work on it tomorrow.
+  
 **2026-05-18**
 * Tier 2 RU: turns out, last FRI I was just 1 step away from having RU ERM Tier 2 running! Fixed it, fixed a few more errors, and now I have a seemingly stable script. Already incorporated it in a normal runner (not a dedicated RU runner for test), and it seems to work. Will see for the next few days.
 * ERM RU: it also took me not that much effort to edit it to be a RU ERM random script (choosing a delivery and a payment option randomly). I think it's because Tier 2 scripts are a bit more complicated, so I was editing by simplifying, plus the classes helped a ton.
