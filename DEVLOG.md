@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-20**
+* RU ERM: my insight today was - not everything that seems to work actually works. RU ERM seemed pretty fine until I discovered a big obvious bug - the delivery selection completely missed the region!
+* RU LVH: keep working on it, but script is not stable yet. It starts to run, but doesn't close the cookie popup and can't move to order yet
+
 **2026-05-19**
 * Admin: this day, I did something different for a change - I added some basic documentation on my scripts in case some of my colleagues want to run it. I added 2 .bat files - install_dependencies and a runner for each series that you can just by double-clicking. Would be great to get some feedback from real users on that, but I'm not sure anybody would be interested.
 * RU LVH: started RU LVH random (should have started with the more difficult one, Tier 2, but alas) and plan to work on it tomorrow.
