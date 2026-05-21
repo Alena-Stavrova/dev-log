@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-21**
+* RU LVH random and Tier 2: achieved a relatively stable version for both, will monitor in the upcoming days. I now have full suite of B2C websites across EU and Russian websites for random LVH, random ERM and Tier 2 🎉! Tier 3 is basically already in my pocket (will be 1 random order per website, the majority of these I already have, so just need to edit the runner). And my next challenge will be 4glaza (a unique Russian website, doesn't have EU version) and Tier 1 where we test every delivery and payment option.
+* EU ERM: fixed some small errors, like verification error on DE ERM
+
 **2026-05-20**
 * RU ERM: my insight today was - not everything that seems to work actually works. RU ERM seemed pretty fine until I discovered a big obvious bug - the delivery selection completely missed the region!
 * RU LVH: keep working on it, but script is not stable yet. It starts to run, but doesn't close the cookie popup and can't move to order yet
