@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-22**
+* LVH: I didn't want to rush into 4glaza just yet, and I thought about 2 problems that annoyed me. First, most websites have cents (or their equivalent), but a few don't and they don't need to display prices in floats, but rather integers. Second, while verifying shipping/payment costs, some websites have an annoying 'TBD' option that can't be converted into a number - hence some sites verify numbers while other strings. Both these things should ideally be language-agnostic, and there should be a function that could count that based on the details provided in OrderContext (likes "self.displays_cents = True"). I have some ideas for solution and may work on implementing it next week.
+  
 **2026-05-21**
 * RU LVH random and Tier 2: achieved a relatively stable version for both, will monitor in the upcoming days. I now have full suite of B2C websites across EU and Russian websites for random LVH, random ERM and Tier 2 🎉! Tier 3 is basically already in my pocket (will be 1 random order per website, the majority of these I already have, so just need to edit the runner). And my next challenge will be 4glaza (a unique Russian website, doesn't have EU version) and Tier 1 where we test every delivery and payment option.
 * EU ERM: fixed some small errors, like verification error on DE ERM
