@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-26**
+* Tier 1: started working on 4glaza, got up to the basket so far (working slowly and practicing finding the selectors myself instead of asking AI). I'm still amazed at how helpful the class structure has been as it took me very little effort to edit it. Chances are, the working version will be ready tomorrow - and I'm already thinking what my next big projects can be. 
+
 **2026-05-25**
 * Tier 1: there are only 2 b2c websites - CZ LVH and 4glaza (a Russian website with no EU counterpart), and today I wrote a CZ LVH tier1 script (adapted from CZ LVH random and CZ ERM tier 2) and edited a runner - it was all pretty fast. CZ LVH tier1 seems to work, but I'll monitor it just in case. Next big task is writing a script for 4glaza completely from scratch, including the test plan generation logic (I expect it to be complicated as there are many parameters - region, delivery/payment, discount - and not everything work with everything)
 
