@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-28**
+* Tier 1 4GL: completed test plan, the script is relatively stable. May need some more finetuning still, will monitor
+* Tier 3: started working on Tier 3. The check for Tier 3 websites is just a random order, so all I really need to do is just assemble my random scripts in a sequence with a runner. Just the LVH and ERM random runners won't work, because Tier 3 has both LVH and ERM scripts and it's more convenient to run them in one go.
+  
 **2026-05-27**
 * Tier 1: edited RU 4GL script up until a working order, but I'm still working on a test plan (every delivery option, 6 + every payment option, 7)
 
