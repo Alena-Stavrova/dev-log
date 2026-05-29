@@ -4,6 +4,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-05-29**
+* Tier 3: these websites are tested with 1 random order only, so I took random scripts for ERM and LVH Tier 3 websites with minor updates and also updated Tier 3 runner (no need to track emails that thoroughly)
+* Admin: I'm feeling like this project is getting close to the end, so I'm already considering the possible next ones - I have a few exciting ideas
+
 **2026-05-28**
 * Tier 1 4GL: completed test plan, the script is relatively stable. May need some more finetuning still, will monitor
 * Tier 3: started working on Tier 3. The check for Tier 3 websites is just a random order, so all I really need to do is just assemble my random scripts in a sequence with a runner. Just the LVH and ERM random runners won't work, because Tier 3 has both LVH and ERM scripts and it's more convenient to run them in one go.
