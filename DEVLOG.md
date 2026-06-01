@@ -4,6 +4,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-06-01**
+* LVH: I took BG LVH random and started refactoring it. I created a checklist for the ponts to check and update in other scripts (there are a lot of scripts, and changes can get messy, so I'm all in for a more "surgical" approach here). As a few examples, the updates include fixing small errors (like missing "f" before an f-string), adding a few new order variables ("displays_cents", "free delivery" phrase etc), adding a new function (formatting price) and making sure it's integrated with no errors. The plan is to clean up BG LVH and then use it as a template to add the same changes to all the other scripts that need them
+
 **2026-05-29**
 * Tier 3: these websites are tested with 1 random order only, so I took random scripts for ERM and LVH Tier 3 websites with minor updates and also updated Tier 3 runner (no need to track emails that thoroughly)
 * Admin: I'm feeling like this project is getting close to the end, so I'm already considering the possible next ones - I have a few exciting ideas
