@@ -2,6 +2,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-06-05**
+* Admin: this week, I haven't done much, and I feel pretty demotivated. The connection to websites, especially European/US is so bad my scripts are failing constantly. There is not much sense in fixing a script if you can't even make it open the home page. The reason for bad connection is apparenly some RKN blocking although our sysadmins are doing their best. I hope the next week the work will be more bearable, otherwise I'll need to switch to another project or something.
+
 **2026-06-02**
 * Admin: I took a little break from scripts reverse-engineering some of our APIs - plus we have some issues with a catalog on a few language websites (which I wouldn't have noticed without the errors in script!). My plans are to keep refactoring scripts and add legal entity order for RU websites as well as add some kind of fallback in case the item is not found (as now I only have a fallback for the item that is found but unavailable)
 
