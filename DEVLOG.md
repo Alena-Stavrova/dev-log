@@ -2,6 +2,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-06-08**
+* LVH: today I took some time to just slowly go through my BG LVH random script and make sure I understand everything and also remove redundant comments or even code. This work kinda scares me because I'm afraid to find out I'm completely out of touch of what's going on in my code. But I believe it's super important, so I'm just going slow and taking my time. The most work should be done with one script and then I can just "trim" the others based on that, only investigating the local features with particular attention. 
+
 **2026-06-05**
 * Admin: this week, I haven't done much, and I feel pretty demotivated. The connection to websites, especially European/US is so bad my scripts are failing constantly. There is not much sense in fixing a script if you can't even make it open the home page. The reason for bad connection is apparenly some RKN blocking although our sysadmins are doing their best. I hope the next week the work will be more bearable, otherwise I'll need to switch to another project or something.
 
