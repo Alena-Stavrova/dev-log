@@ -2,6 +2,8 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**20206-06-09**
+* Admin: not much work today, just a little fix for IT ERM, IT LVH. But I think I made an important realization: the demotivation I've been feeling about my work lately and my struggle to focus are related to ill-defined goals and tasks. If I define my tasks in more specific term and rebuild my vision for this project, I think I'll be more excited to work on these scripts again.
 **2026-06-08**
 * LVH: today I took some time to just slowly go through my BG LVH random script and make sure I understand everything and also remove redundant comments or even code. This work kinda scares me because I'm afraid to find out I'm completely out of touch of what's going on in my code. But I believe it's super important, so I'm just going slow and taking my time. The most work should be done with one script and then I can just "trim" the others based on that, only investigating the local features with particular attention. 
 
