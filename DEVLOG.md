@@ -2,7 +2,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
-**20206-06-09**
+**2026_06-10**
+* LVH: worked on verifying discount feature on RU ERM (5% discount for regional orders paid with a credit card). Doesn't sound complicated but it took some work and debugging. Verification involves 2 steps: checking whether we have a discount section with discount % and calculating the price with the discount. The discounted price is calculated in an unusual way - the discount is applied to the item's price (or the total cost of all items) but it is displayed in a total sum. To verify it, we need to calculate the price of the item with the discount applied (price - price*0,05), add the delivery/payment fee and round the kopecks
+  
+**2026-06-09**
 * Admin: not much work today, just a little fix for IT ERM, IT LVH. But I think I made an important realization: the demotivation I've been feeling about my work lately and my struggle to focus are related to ill-defined goals and tasks. If I define my tasks in more specific term and rebuild my vision for this project, I think I'll be more excited to work on these scripts again.
 **2026-06-08**
 * LVH: today I took some time to just slowly go through my BG LVH random script and make sure I understand everything and also remove redundant comments or even code. This work kinda scares me because I'm afraid to find out I'm completely out of touch of what's going on in my code. But I believe it's super important, so I'm just going slow and taking my time. The most work should be done with one script and then I can just "trim" the others based on that, only investigating the local features with particular attention. 
