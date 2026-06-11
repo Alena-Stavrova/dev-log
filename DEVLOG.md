@@ -2,7 +2,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
-**2026_06-10**
+**2026-06-11**
+* LVH: tested discount verification a bit more (seems stable) and added a function to make an order as a legal entity. It's a separate tab on order page with a dedicated URL, and it has all the delivery options available in the region, just 1 payment option (for legal entities) and 1 more Dadata point where you type in TIN and the company name and address fields are automatically populated
+* Summer Promo: started a new repo (currently private) to test the discounts on our available summer promo. Will open the repo after the promo is over
+
+**2026-06-10**
 * LVH: worked on verifying discount feature on RU ERM (5% discount for regional orders paid with a credit card). Doesn't sound complicated but it took some work and debugging. Verification involves 2 steps: checking whether we have a discount section with discount % and calculating the price with the discount. The discounted price is calculated in an unusual way - the discount is applied to the item's price (or the total cost of all items) but it is displayed in a total sum. To verify it, we need to calculate the price of the item with the discount applied (price - price*0,05), add the delivery/payment fee and round the kopecks
   
 **2026-06-09**
