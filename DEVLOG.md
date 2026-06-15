@@ -2,6 +2,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+
+**2026-06-15**
+* Summer promo: created more or less stable xls file reader, now working on a web scrapper and comparison. It's simpler than my other scripts, but more options to do things so the difficulty is seeing these options and picking the right one
 **2026-06-11**
 * LVH: tested discount verification a bit more (seems stable) and added a function to make an order as a legal entity. It's a separate tab on order page with a dedicated URL, and it has all the delivery options available in the region, just 1 payment option (for legal entities) and 1 more Dadata point where you type in TIN and the company name and address fields are automatically populated
 * Summer Promo: started a new repo (currently private) to test the discounts on our available summer promo. Will open the repo after the promo is over
