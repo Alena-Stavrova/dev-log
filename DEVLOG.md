@@ -2,6 +2,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-06-22**
+* Summer promo: I've done a working file reader + scrapper + runner on 4GLAZA and tested it on a stage website. It worked but it mostly shows errors (because stage has a different catalog with older prices - most checks fail). The promo goes live later during the week so I decided to include RU LVH in this as well. The plan is to have the same reader but different checkers and runners for each website and also put common helper functions in a separate file (to be imported).
+* Small fix on TR LVH where the price class 0 is practically dying - my script showed a bug with shipping fee being different than expected, but only because the price of the item increased. For now, the lists of item are hardcoded, but I may want to add some functionality to avoid these false negatives in the future. 
 
 **2026-06-15**
 * Summer promo: created more or less stable xls file reader, now working on a web scrapper and comparison. It's simpler than my other scripts, but more options to do things so the difficulty is seeing these options and picking the right one
