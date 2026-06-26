@@ -2,6 +2,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-06-26**
+* Admin: because of the huge promo we're running and other reasons, I've not been as consistent with the devlog as I'd like. I've been working on promo scripts that were mostly a success. The scripts are in the currently closed repo, but I'm planning to open it once the promo is over.
+* ERM/LVH: beside promo scripts, I've been working on editing the delivery logic for CZ and IT websites. They now have an express delivery (completely new for CZ; was on IT before, but different) that is processed through 3rd party API. The main problem is with timing: the express delivery button only appears when full and valid address is typed in and it takes some time to render. My scripts were trying to select payment option once the express buton was not fully loaded and when it did, it overrode the payment choice making it a default. That's what I've been trying to fix. Got really frustrated with DeepSeek not giving me proper advice until I figured out that IT website just changed an express delivery selector - that was my shameful "duh!" moment.
+  
 **2026-06-22**
 * Summer promo: I've done a working file reader + scrapper + runner on 4GLAZA and tested it on a stage website. It worked but it mostly shows errors (because stage has a different catalog with older prices - most checks fail). The promo goes live later during the week so I decided to include RU LVH in this as well. The plan is to have the same reader but different checkers and runners for each website and also put common helper functions in a separate file (to be imported).
 * Small fix on TR LVH where the price class 0 is practically dying - my script showed a bug with shipping fee being different than expected, but only because the price of the item increased. For now, the lists of item are hardcoded, but I may want to add some functionality to avoid these false negatives in the future. 
