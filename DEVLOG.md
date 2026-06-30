@@ -2,6 +2,9 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-30-06**
+* ERM/LVH: I'm still working on this tricky new express delivery. The button only appears after the full address, and my scripts keep clicking payment before the page is rendered again. I'm trying a new solution, a helper function that compares the list of button ids (the expected payments for this delivery) to the ids on the page, but it's still not working properly
+  
 **2026-06-26**
 * Admin: because of the huge promo we're running and other reasons, I've not been as consistent with the devlog as I'd like. I've been working on promo scripts that were mostly a success. The scripts are in the currently closed repo, but I'm planning to open it once the promo is over.
 * ERM/LVH: beside promo scripts, I've been working on editing the delivery logic for CZ and IT websites. They now have an express delivery (completely new for CZ; was on IT before, but different) that is processed through 3rd party API. The main problem is with timing: the express delivery button only appears when full and valid address is typed in and it takes some time to render. My scripts were trying to select payment option once the express buton was not fully loaded and when it did, it overrode the payment choice making it a default. That's what I've been trying to fix. Got really frustrated with DeepSeek not giving me proper advice until I figured out that IT website just changed an express delivery selector - that was my shameful "duh!" moment.
