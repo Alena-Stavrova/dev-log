@@ -2,6 +2,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-02-07**
+* ERM/LVH: these stubborn express deliveries are just a nightmare - every time I think I've fixed it, the errors appear again. Annoyingly, they are not consistent so I may test it a few times and it works fine - until it doesn't. Still working on these and also a few minor fixes across LVH/ERM
+* Cyberleto is over, so I will plan to make the folder public
+  
 **2026-30-06**
 * ERM/LVH: I'm still working on this tricky new express delivery. The button only appears after the full address, and my scripts keep clicking payment before the page is rendered again. I'm trying a new solution, a helper function that compares the list of button ids (the expected payments for this delivery) to the ids on the page, but it's still not working properly
   
