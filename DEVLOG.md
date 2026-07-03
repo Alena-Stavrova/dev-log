@@ -2,6 +2,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-02-08**
+* ERM/LVH: IT and CZ are still not working as expected, and it's been very frustrating. Also, I'm kinda losing track of which fixes were tried where.
+* RU LVH: I found a bug that I likely overlooked before - when an order is made as a legal entity, the address doesn't populate like it should. It's possible I missed it because when testing, I got SDEK or shop pickup which already have addresses so the delivery could proceed. Will investigate this more, I want to find out whether I missed it or whether it worked before and stopped now for some reason.
+
 **2026-02-07**
 * ERM/LVH: these stubborn express deliveries are just a nightmare - every time I think I've fixed it, the errors appear again. Annoyingly, they are not consistent so I may test it a few times and it works fine - until it doesn't. Still working on these and also a few minor fixes across LVH/ERM
 * Cyberleto is over, so I will plan to make the folder public
