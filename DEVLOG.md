@@ -3,6 +3,9 @@
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
 **2026-02-08**
+* Admin: I've been working with DeepSeek and Claude to find fixes for CZ and IT issues (related to the introduction of a new express delivery). And I think I was able to find them, at least to a degree. But I've been feeling an increasing frustration with the code being bloated and me losing track of what is where (and which fixes added where, and which of them work and which didn't). And more importantly, I realized that all this elaborated work is just a "check" in a fancy wrapper, a check in a sense of James Bach talking about testing vs checking. I mean, it's been useful and in many ways informative experience, but I'm starting to see the diminishing returns while my efforts are still growing. I think I need to re-think my strategy. Good thing my vacation is coming (will be away for the next 2 weeks)
+
+**2026-02-08**
 * ERM/LVH: IT and CZ are still not working as expected, and it's been very frustrating. Also, I'm kinda losing track of which fixes were tried where.
 * RU LVH: I found a bug that I likely overlooked before - when an order is made as a legal entity, the address doesn't populate like it should. It's possible I missed it because when testing, I got SDEK or shop pickup which already have addresses so the delivery could proceed. Will investigate this more, I want to find out whether I missed it or whether it worked before and stopped now for some reason.
 
