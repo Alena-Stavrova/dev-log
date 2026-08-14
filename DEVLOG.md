@@ -2,6 +2,10 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-14-08**
+* Admin: Last day before my vacation (July 13-26) I had that thought that my scripts were not as good as I thought (they are just super elaborate "checks", and I'm again at the point where I don't understand some of the fixes). That made coming back to working on them pretty hard. I keep using them and I'm still doing some minor fixes (like fixing obvious errors and typos or a switch to EUR for BG recently), but I don't have any vision for them anymore. Me working on them was definitely not a waste of time, but I feel kinda stuck as what to do next. I'm considering some refactoring (like maybe organizing them as POM which I'm currently trying to learn) or maybe just even stepping aside from them to work on other skills.
+* Cyberleto: this was our summer promo and it's currently in a private repo. I wanted to make it public once the promo was over but haven't done it yet, so that might be something to work on in the nearest future.
+
 **2026-02-08**
 * Admin: I've been working with DeepSeek and Claude to find fixes for CZ and IT issues (related to the introduction of a new express delivery). And I think I was able to find them, at least to a degree. But I've been feeling an increasing frustration with the code being bloated and me losing track of what is where (and which fixes added where, and which of them work and which didn't). And more importantly, I realized that all this elaborated work is just a "check" in a fancy wrapper, a check in a sense of James Bach talking about testing vs checking. I mean, it's been useful and in many ways informative experience, but I'm starting to see the diminishing returns while my efforts are still growing. I think I need to re-think my strategy. Good thing my vacation is coming (will be away for the next 2 weeks)
 
