@@ -2,6 +2,11 @@
 - [Project]: [What I did] 
 - [Project]: [What I learned] 
 - [Next]: [What's next]-->
+**2026-23-11**
+* Admin: long since my last update. Even though my LVH, ERM and cyberleto repos are now in maintenace mode, there are still some changes sometimes, and I'd like to keep it organized and relevant. Plan to work on this maybe this month.
+* LVH, ERM: My biggest change so far is removing Tier 3 entirely. I can't believe I didn't think of it earlier - it's just so redundant. The Tier 3 websites can be tested perfectly fine with daily scripts (I've added this function already) which will keep the code in one place and allow me not to worry about changing 2 scripts.
+* The other updates I'm thinking of: adding an order from a legal entity on Ru websites (currently added on some and doesn't always work correctly); adding updated Cyberleto - Black Friday suite; adding an option of turning a major promo on or off on daily orders (e.g. various elements blocking buttons - like a promo timer; some items will have strikethrough prices etc.); fixing some irregular errors (like element being added via API but not found in cart) and weaknesses. 
+
 **2026-14-08**
 * Admin: Last day before my vacation (July 13-26) I had that thought that my scripts were not as good as I thought (they are just super elaborate "checks", and I'm again at the point where I don't understand some of the fixes). That made coming back to working on them pretty hard. I keep using them and I'm still doing some minor fixes (like fixing obvious errors and typos or a switch to EUR for BG recently), but I don't have any vision for them anymore. Me working on them was definitely not a waste of time, but I feel kinda stuck as what to do next. I'm considering some refactoring (like maybe organizing them as POM which I'm currently trying to learn) or maybe just even stepping aside from them to work on other skills.
 * Cyberleto: this was our summer promo and it's currently in a private repo. I wanted to make it public once the promo was over but haven't done it yet, so that might be something to work on in the nearest future.
